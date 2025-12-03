@@ -36,7 +36,7 @@ Python 3.8 或更高版本
 
 1. 克隆仓库
 
-git clone [https://github.com/你的用户名/Win11-Ultimate-Optimizer.git](https://github.com/你的用户名/Win11-Ultimate-Optimizer.git)
+git clone [https://github.com/chenxin799/Win11-Ultimate-Optimizer.git](https://github.com/chenxin799/Win11-Ultimate-Optimizer.git)
 cd Win11-Ultimate-Optimizer
 
 
@@ -78,7 +78,7 @@ pyinstaller --noconsole --onefile --name="Win11Optimizer" --icon=icon.ico main.p
 
 👤 作者
 
-陈鑫 - 核心开发
+chenxin - 核心开发
 
 📄 许可证
 
