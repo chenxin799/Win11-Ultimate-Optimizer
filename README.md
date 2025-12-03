@@ -1,3 +1,6 @@
+<img width="701" height="527" alt="image" src="https://github.com/user-attachments/assets/2c4d82fa-8305-4f37-9eea-8fc5f69dc77f" />
+
+
 ✨ 主要功能
 
 📊 实时监控: 侧边栏实时显示 CPU 和 RAM 占用率。
