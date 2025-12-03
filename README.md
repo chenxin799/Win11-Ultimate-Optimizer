@@ -83,7 +83,7 @@ pyinstaller --noconsole --onefile --name="Win11Optimizer" --icon=icon.ico optimi
 
 👤 作者
 
-陈鑫 - 核心开发
+chenxin - 核心开发
 
 📄 许可证
 
